@@ -15,4 +15,7 @@ Hi! My name is JADIDI Oussama 😄
   <a target="_blank" href="https://www.linkedin.com/in/oussama-jadidi-4a5201237/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
+  <a target="_blank" href="https://www.instagram.com/jadidi_oussama/">
+    <img src="https://img.shields.io/badge/Instagram-E13067?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
 </div>
